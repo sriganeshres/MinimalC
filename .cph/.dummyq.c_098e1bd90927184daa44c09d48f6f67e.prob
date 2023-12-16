@@ -1,0 +1,1 @@
+{"name":"Local: dummyq","url":"e:\\c&c++\\C\\dummyq.c","tests":[{"id":1682142942680,"input":"3 30\nPalash das\nSP road, 102, Jodhpur\nRajasthan, 35454","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c&c++\\C\\dummyq.c","group":"local","local":true}

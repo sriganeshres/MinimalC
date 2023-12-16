@@ -1,0 +1,1 @@
+{"name":"Local: revwords","url":"e:\\c&c++\\C\\revwords.c","tests":[{"id":1682403061837,"input":"I like to code in python","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c&c++\\C\\revwords.c","group":"local","local":true}
